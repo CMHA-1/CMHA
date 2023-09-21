@@ -13,7 +13,7 @@ The dataset could be download [here](https://1drv.ms/f/s!AgOoTZIVYfRfatZ23-ISSuQ
 
 ## Morphological Parameters
 
-15 morphological parameters (refer to Figure 2) were measured based on the 3D surface model using the "spline" and "measure" tools within Mimics. These parameters consist of:
+17 morphological parameters (refer to Figure 2) were measured based on the 3D surface model using the "spline" and "measure" tools within Mimics. These parameters consist of:
 
   ● 3 vascular diameters: the aortic diameter ($D$), the thicker branch diameter ($D_{1}$), and the smaller branch diameter ($D_{2}$).
 
