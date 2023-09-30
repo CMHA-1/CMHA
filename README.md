@@ -1,11 +1,13 @@
+#News
+
+The data will be available soon after the related publication is reviewed. 
+
 # CMHA:
 ![image text](https://github.com/CMHA-1/CMHA/blob/main/images/home%20page.png "DBSCAN Performance Comparison")
 
 We've constructed an open-access 3D dataset for middle cerebral artery aneurysms, including raw CTA imaging data, 3D models (such as aneurysm-artery models, aneurysm models, and healthy control models), and hemodynamic simulation results.
 
 What's more, based on the models, we have conducted detailed analysis of the aneurysms, documenting clinical information, morphological characteristics, and hemodynamic data of the patients. These findings are stored in an Excel table called "results".
-
-The dataset could be download [here](https://1drv.ms/f/s!AgOoTZIVYfRfatZ23-ISSuQ3ijw?e=S9VRhN).
 
 ## Subjects
 
